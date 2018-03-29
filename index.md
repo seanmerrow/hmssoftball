@@ -1,7 +1,7 @@
 ---
-title:  "HMS Softball"
+title:  "HMS Colts Softball"
 ---
-# HMS Softball
+# HMS Colts Softball
 
 **Record:** 0-0
 
