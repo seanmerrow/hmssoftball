@@ -42,6 +42,6 @@ title:  "HMS Softball"
 (M) Team Manager
 
 ## Coaches
-Dave Yates
-Becky Radziewicz
+* Dave Yates
+* Becky Radziewicz
 
