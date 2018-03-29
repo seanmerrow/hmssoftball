@@ -19,3 +19,29 @@ title:  "HMS Softball"
 | Fri 5/11 |A    |Londonderry | <span style="color:black">0-0</span>  |
 | Tue 5/15 |H    |Woodbury    | <span style="color:black">0-0</span>  |
 | Thu 5/17 |H    |Timberlane  | <span style="color:black">0-0</span>  |
+
+## Roster
+|No.     |Player           | Grade|
+|:-------|:----------------|:----:|
+|-       |Maddy Bowen      | 8    |
+|-       |Sophie Cutuli    | 8    |
+|-       |Talia Duca       | 8    |
+|-       |Mia Francisco    | 8    |
+|-       |Maddy Saccarelli | 8    |
+|-       |Sophie Cutuli    | 8    |
+|-       |Maddy Bradish    | 7    |
+|- (M)   |Jaelyn Green     | 7    |
+|-       |Skye Merrow      | 7    |
+|-       |Delaney Power    | 7    |
+|-       |Elizabeth Rugg   | 7    |
+|-       |Alyssa Abbott    | 6    |
+|- (M)   |Maegan Cormier   | 6    |
+|-       |Liv Cutuli       | 6    |
+|-       |Michaella Bowen  | 6    |
+
+(M) Team Manager
+
+## Coaches
+Dave Yates
+Becky Radziewicz
+
