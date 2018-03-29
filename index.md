@@ -29,16 +29,16 @@ title:  "HMS Colts Softball"
 |-       |Talia Duca       | 8    |
 |-       |Mia Francisco    | 8    |
 |-       |Maddy Saccarelli | 8    |
-|-       |Sophie Cutuli    | 8    |
+|-       |Sabrina Testa    | 8    |
 |-       |Maddy Bradish    | 7    |
 |- (M)   |Jaelyn Green     | 7    |
 |-       |Skye Merrow      | 7    |
 |-       |Delaney Power    | 7    |
 |-       |Elizabeth Rugg   | 7    |
 |-       |Alyssa Abbott    | 6    |
+|-       |Michaella Bowen  | 6    |
 |- (M)   |Maegan Cormier   | 6    |
 |-       |Liv Cutuli       | 6    |
-|-       |Michaella Bowen  | 6    |
 
 (M) Team Manager
 
