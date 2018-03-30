@@ -28,7 +28,7 @@ title:  "HMS Colts Softball"
 |-       |Sophie Cutuli    | 8    |
 |-       |Talia Duca       | 8    |
 |-       |Mia Francisco    | 8    |
-|-       |Maddy Seccarelli | 8    |
+|-       |Maddy Secchiaroli| 8    |
 |-       |Sabrina Testa    | 8    |
 |-       |Maddy Bradish    | 7    |
 |- (M)   |Jaelyn Green     | 7    |
