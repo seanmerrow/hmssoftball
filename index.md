@@ -3,14 +3,14 @@ title:  "HMS Colts Softball"
 ---
 # HMS Colts Softball
 
-**Record:** 0-0
+**Record:** 1-0
 
 ## Schedule
 
 |Day       | H/A | Opp        | W/L                                   |
 |:---------|:---:|:-----------|:--------------------------------------|
-| Tue 4/10 |H    |Elm St      | <span style="color:black">0-0</span>  |
-| Wed 4/11 |A    |Woodbury    | <span style="color:black">0-0</span>  |
+| Tue 4/10 |H    |Elm St      | <span style="color:green">23-4</span>  |
+| Thu 4/12 |A    |Woodbury    | <span style="color:black">0-0</span>  |
 | Tue 4/17 |A    |Timberlane  | <span style="color:black">0-0</span>  |
 | Wed 4/18 |A    |Merrimack   | <span style="color:black">0-0</span>  |
 | Mon 5/7  |H    |Bedford     | <span style="color:black">0-0</span>  |
@@ -24,22 +24,22 @@ title:  "HMS Colts Softball"
 
 |No.     |Player           | Grade|
 |:-------|:----------------|:----:|
-|-       |Maddy Bowen      | 8    |
-|-       |Sophie Cutuli    | 8    |
-|-       |Talia Duca       | 8    |
-|-       |Mia Francisco    | 8    |
-|-       |Liz Huggins      | 8    |
-|-       |Maddy Secchiaroli| 8    |
-|-       |Sabrina Testa    | 8    |
-|-       |Maddy Bradish    | 7    |
-|- (M)   |Jaelyn Green     | 7    |
-|-       |Skye Merrow      | 7    |
-|-       |Delaney Power    | 7    |
-|-       |Elizabeth Rugg   | 7    |
-|-       |Alyssa Abbott    | 6    |
-|-       |Michaella Bowen  | 6    |
+|10      |Maddy Bowen      | 8    |
+|13      |Sophie Cutuli    | 8    |
+|6       |Talia Duca       | 8    |
+|12      |Mia Francisco    | 8    |
+|16      |Liz Huggins      | 8    |
+|15      |Maddy Secchiaroli| 8    |
+|16      |Sabrina Testa    | 8    |
+|7       |Maddy Bradish    | 7    |
+|1 (M)   |Jaelyn Green     | 7    |
+|9       |Skye Merrow      | 7    |
+|4       |Delaney Power    | 7    |
+|11      |Elizabeth Rugg   | 7    |
+|8       |Alyssa Abbott    | 6    |
+|14      |Michaella Bowen  | 6    |
 |- (M)   |Maegan Cormier   | 6    |
-|-       |Liv Cutuli       | 6    |
+|2       |Liv Cutuli       | 6    |
 
 (M) Team Manager
 
