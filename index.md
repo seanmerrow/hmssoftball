@@ -3,7 +3,7 @@ title:  "HMS Colts Softball"
 ---
 # HMS Colts Softball
 
-**Record:** 1-0
+**Record:** 2-1
 
 ## Schedule
 
