@@ -10,15 +10,16 @@ title:  "HMS Colts Softball"
 |Day       | H/A | Opp        | W/L                                   |
 |:---------|:---:|:-----------|:--------------------------------------|
 | Tue 4/10 |H    |Elm St      | <span style="color:green">23-4</span>  |
-| Thu 4/12 |A    |Woodbury    | <span style="color:black">0-0</span>  |
-| Tue 4/17 |A    |Timberlane  | <span style="color:black">0-0</span>  |
-| Wed 4/18 |A    |Merrimack   | <span style="color:black">0-0</span>  |
-| Mon 5/7  |H    |Bedford     | <span style="color:black">0-0</span>  |
+| Thu 4/12 |A    |Woodbury    | <span style="color:red">6-5</span>  |
+| Mon 5/7  |H    |Bedford     | <span style="color:green">16-6</span>  |
 | Tue 5/8  |H    |Goffstown   | <span style="color:black">0-0</span>  |
 | Thu 5/10 |A    |Elm St      | <span style="color:black">0-0</span>  |
 | Fri 5/11 |A    |Londonderry | <span style="color:black">0-0</span>  |
 | Tue 5/15 |H    |Woodbury    | <span style="color:black">0-0</span>  |
-| Thu 5/17 |H    |Timberlane  | <span style="color:black">0-0</span>  |
+| Wed 5/16 |A    |Merrimack    | <span style="color:black">0-0</span>  |
+| Thu 5/17 |H    |Timberlane**  | <span style="color:black">0-0</span>  |
+
+**Double-header
 
 ## Roster
 
@@ -38,7 +39,7 @@ title:  "HMS Colts Softball"
 |11      |Elizabeth Rugg   | 7    |
 |8       |Alyssa Abbott    | 6    |
 |14      |Michaella Bowen  | 6    |
-|- (M)   |Maegan Cormier   | 6    |
+|5 (M)   |Maegan Cormier   | 6    |
 |2       |Liv Cutuli       | 6    |
 
 (M) Team Manager
