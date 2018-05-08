@@ -1,7 +1,7 @@
 ---
 title:  "HMS Colts Softball"
 ---
-# HMS Colts Softball
+# <span style="color:red">HMS Colts Softball</span>
 
 **Record:** 2-1
 
