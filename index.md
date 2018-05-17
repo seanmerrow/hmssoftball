@@ -3,7 +3,7 @@ title:  "HMS Colts Softball"
 ---
 # <span style="color:red">HMS Colts Softball</span>
 
-**Record:** 3-3
+**Record:** 4-3
 
 ## Schedule
 
@@ -15,7 +15,7 @@ title:  "HMS Colts Softball"
 | Tue 5/8  |H    |Goffstown   | <span style="color:red">6-4</span>    |
 | Fri 5/11 |A    |Londonderry | <span style="color:red">4-3</span>    |
 | Wed 5/16 |A    |Woodbury    | <span style="color:green">6-5</span>  |
-| Thu 5/17 |H    |Timberlane**| <span style="color:black">0-0</span>  |
+| Thu 5/17 |H    |Timberlane**| <span style="color:green">6-0</span>  |
 | Thu 5/17 |H    |Timberlane**| <span style="color:black">0-0</span>  |
 | Mon 5/21 |A    |Elm St      | <span style="color:black">0-0</span>  |
 | Mon 5/28 |A    |Merrimack   | <span style="color:black">0-0</span>  |
