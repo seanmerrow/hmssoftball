@@ -3,7 +3,7 @@ title:  "HMS Colts Softball"
 ---
 # <span style="color:red">HMS Colts Softball</span>
 
-**Record:** 2-3
+**Record:** 3-3
 
 ## Schedule
 
